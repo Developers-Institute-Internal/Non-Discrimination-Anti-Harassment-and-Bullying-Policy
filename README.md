@@ -150,7 +150,8 @@ Chief Executive
 <td>
 2.1 Encountering harassment/bullying
 <ul>
-<li>
+<li> 2.1.1 Any member of Developers Institute who is being harassed or bullied shall seek the assistance of an anti-harassment/bullying contact person/s. The contacts details for this person/s shall be available in Programme Handbook’s and Staff Induction materials. The contact person shall listen and explain the various options available for dealing with the behaviour.
+
 </ul>
 2.2 Anti-Harassment/Bullying Coordinator (usually the Wellbeing Manager)
 
