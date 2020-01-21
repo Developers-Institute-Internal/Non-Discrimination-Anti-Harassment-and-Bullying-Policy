@@ -130,7 +130,7 @@ Chief Executive
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td valign="top"><strong>1.0 Process</strong></td>
+<td valign="top"><strong>1.0 Procedures</strong></td>
 <td>
 1.1 Any person, staff member or student found to have harassed and/or bullied another staff member, student or visitor at Developers Institute will be liable for disciplinary action in line with either the Developers Institute Disciplinary Processes Policy* (staff members) or Student Concerns, Complaints and Appeals Policy (students).
 
@@ -146,7 +146,7 @@ Chief Executive
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>2.0 Enrolment Information</strong></td>
+<td valign="top"><strong>2.0 Guidelines</strong></td>
 <td>
 2.1 Encountering harassment/bullying
 <ul>
