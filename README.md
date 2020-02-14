@@ -19,6 +19,7 @@ The purpose of this policy is to provide an environment within Developers Instit
 <tr>
 <td valign="top"><strong>Responsibilities</strong></td>
 <td>
+  
 It is the responsibility of the Chief Executive to employ effective mechanisms that oversee the Non-Discrimination, Anti-Harassment and Bullying procedures. All staff are responsible to ensure the Developers Institute provides a safe environment for work and study. 
 
 Developers Institute has a culture of zero tolerance for bullying, racism or sexual harassment and it provides a work and study environment that respects peoples race, colour, ethnicity, nationality, religion, social status, sexual orientation, gender identity, marital status and age.
@@ -29,6 +30,7 @@ Developers Institute has a culture of zero tolerance for bullying, racism or sex
 <tr>
 <td valign="top"><strong>Scope</strong></td>
 <td>
+  
 This policy applies to all Developers Institute Staff, Students and visitors.
 </td>
 </tr>
@@ -41,6 +43,7 @@ Changes in the Non-Discrimination, Anti-Harassment and Bullying policy will be m
 <tr>
 <td valign="top"><strong>Definitions</strong></td>
 <td>
+  
 <strong>Discrimination</strong> - the unjust or prejudicial treatment of different categories of people, on the grounds of race, skin colour, ethnicity, nationality, religion, social status, sexual orientation, gender identity, marital status or age.
 
 <strong>Bullying</strong> - persistent, offensive, abusive, intimidating, malicious or insulting behaviour (express or implied) which makes the recipient(s) feel threatened, vulnerable or humiliated, undermines their self-confidence and/or causes them to suffer stress.
@@ -85,6 +88,7 @@ Full legal descriptions of sexual and racial harassment are contained in section
 <tr>
 <td valign="top"><strong>Review</strong></td>
 <td>
+  
 Responsibility: Chief Executive
 
 Development/Approval dates: February 2018
@@ -132,6 +136,7 @@ Chief Executive
 <tr>
 <td valign="top"><strong>1.0 Procedures</strong></td>
 <td>
+  
 1.1 Any person, staff member or student found to have harassed and/or bullied another staff member, student or visitor at Developers Institute will be liable for disciplinary action in line with either the Developers Institute Disciplinary Processes Policy* (staff members) or Student Concerns, Complaints and Appeals Policy (students).
 
 1.2 Where a contractor is accused of harassment, Developers Institute shall advise the alleged harasser’s employer of the situation requesting that the matter be dealt with under that employer’s policies and the results of their investigation be made known to Developers Institute.
@@ -148,6 +153,7 @@ Chief Executive
 <tr>
 <td valign="top"><strong>2.0 Guidelines</strong></td>
 <td>
+  
 2.1 Encountering harassment/bullying
 <ul>
 <li> 2.1.1 Any member of Developers Institute who is being harassed or bullied shall seek the assistance of an anti-harassment/bullying contact person/s. The contacts details for this person/s shall be available in Programme Handbook’s and Staff Induction materials. The contact person shall listen and explain the various options available for dealing with the behaviour.
